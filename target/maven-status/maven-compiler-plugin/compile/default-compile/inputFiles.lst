@@ -1,0 +1,12 @@
+C:\dev\Projec\database\src\main\java\br\com\core\database\config\db\OracleDataSourceConfig.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\postgresql\repository\ClienteRepository.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\oracle\entities\UsuarioTO.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\postgresql\entities\ClienteTO.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\controller\ChamadasRestController.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\service\impl\ClienteServiceImpl.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\config\db\PostgreSQLDataSourceConfig.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\DatabaseApplication.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\service\impl\UsuarioServiceImpl.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\oracle\repository\UsuarioRepository.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\service\ClienteService.java
+C:\dev\Projec\database\src\main\java\br\com\core\database\service\UsuarioService.java

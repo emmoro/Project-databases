@@ -1,0 +1,12 @@
+br\com\core\database\postgresql\entities\ClienteTO.class
+br\com\core\database\DatabaseApplication.class
+br\com\core\database\service\ClienteService.class
+br\com\core\database\config\db\OracleDataSourceConfig.class
+br\com\core\database\service\impl\ClienteServiceImpl.class
+br\com\core\database\controller\ChamadasRestController.class
+br\com\core\database\config\db\PostgreSQLDataSourceConfig.class
+br\com\core\database\oracle\repository\UsuarioRepository.class
+br\com\core\database\postgresql\repository\ClienteRepository.class
+br\com\core\database\service\UsuarioService.class
+br\com\core\database\oracle\entities\UsuarioTO.class
+br\com\core\database\service\impl\UsuarioServiceImpl.class
